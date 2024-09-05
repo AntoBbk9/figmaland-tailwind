@@ -6,8 +6,8 @@ function Navbar() {
   return (
     <>
       <div className='flex justify-between px-6 py-4 items-center sm:hidden'>
-          <img src="/public/logo-entreprise.png" alt="" />
-          <img src="/public/menu.png" alt="" className='w-6 h-3'/>
+          <img src="/logo-entreprise.png" alt="" />
+          <img src="/menu.png" alt="" className='w-6 h-3'/>
       </div>
 
       <div className='hidden sm:flex justify-around py-10'>
@@ -17,7 +17,7 @@ function Navbar() {
           <p className='text-white'>Pricing</p>
           <p className='text-white'>About</p>
           <p className='text-white'>Contact</p>
-          <img src="/public/logo-entreprise.png" alt="" />
+          <img src="/logo-entreprise.png" alt="" />
         </div>
         <div className='flex items-center gap-10'>
           <TwitterIcon />

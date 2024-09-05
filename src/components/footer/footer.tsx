@@ -33,14 +33,14 @@ function Footer() {
             <p>Bruce Simmmons</p>
         </FooterItem>
 
-        <div className="flex flex-col gap-10">
-            <div className="flex justify-items-left flex-col items-center">
-                <div className="flex justify-left items-center gap-3">
+        <div className="flex flex-col gap-10 items-start">
+            <div className="flex flex-start items-start flex-col gap-3">
+                <div className="flex items-center gap-3">
                     <LocalisationIcon />
                     <p className="text-white">7480 Mockingbird Hill undefined </p>
                 </div>
 
-                <div className="flex justify-left items-center gap-3">
+                <div className="flex items-center gap-3">
                     <TelIcon />
                     <p className="text-white">(239) 555-0108</p>
                 </div>

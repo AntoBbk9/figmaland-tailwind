@@ -1,7 +1,7 @@
 
 function FacebookIcon() {
   return (
-    <img src="/public/facebook-icon.png" alt="" />
+    <img src="/facebook-icon.png" alt="" />
   )
 }
 

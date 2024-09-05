@@ -1,7 +1,7 @@
 
 function TwitterIcon() {
   return (
-    <img src="/public/twitter-icon.png" alt="" />
+    <img src="/twitter-icon.png" alt="" />
   )
 }
 

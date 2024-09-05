@@ -11,12 +11,12 @@ function Main() {
                     </div>
                 </SectionItem>
 
-                    <img src="/public/video_screen.png" alt="" className="block sm:hidden"/>
+                    <img src="/video_screen.png" alt="" className="block sm:hidden"/>
 
                 <div className="flex flex-col sm:flex-row gap-16 justify-center">
                     <SectionItem>
                         <div className="flex items-center flex-col">               
-                            <img src="/public/vector.png" alt="" className="w-6 h-6"/>
+                            <img src="public/vector.png" alt="" className="w-6 h-6"/>
                             <h3 className="font-bold text-center pt-6">OpenType features Variable fonts</h3>
                             <p className="paragraph-black">Slate helps you see how 
                                 many more days you need 
@@ -40,7 +40,7 @@ function Main() {
 
                     <SectionItem>
                         <div className="flex items-center flex-col">               
-                            <img src="/public/mdi_brush.png" alt="" className="w-6 h-6" />
+                            <img src="/mdi_brush.png" alt="" className="w-6 h-6" />
                                 <h3 className="font-bold text-center pt-6">Fastest way to take action</h3>
                                 <p className="paragraph-black">Slate helps you see how 
                                     many more days you need 
@@ -51,7 +51,7 @@ function Main() {
                 </div>
 
 
-                <img src="/public/video-screen.png" alt="" className= "hidden sm:block w-[900px] h-[500px] m-auto pt-20"/>
+                <img src="/video-screen.png" alt="" className= "hidden sm:block w-[900px] h-[600px] m-auto pt-20"/>
                 
                 <div>
                     <SectionItem>
@@ -63,42 +63,42 @@ function Main() {
                         <div className="parteners">                        
                             <div className="btn-parteners">
                                 <h5>Client Name</h5>
-                                <img src="/public/logos_google.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/logos_google.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className="btn-parteners">
                                 <h5>Client Name</h5>
-                                <img src="/public/partner-1.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/partner-1.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className="btn-parteners">
                                 <h5>Client Name</h5>
-                                <img src="/public/microsoft.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/microsoft.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className= "btn-parteners-hiden">
                                 <h5>Client Name</h5>
-                                <img src="/public/uber.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/uber.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className= "btn-parteners-hiden">
                                 <h5>Client Name</h5>
-                                <img src="/public/dropbox.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/dropbox.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className= "btn-parteners-hiden">
                                 <h5>Client Name</h5>
-                                <img src="/public/logos_google.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/logos_google.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className= "btn-parteners-hiden">
                                 <h5>Client Name</h5>
-                                <img src="/public/uber.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/uber.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
 
                             <div className= "btn-parteners-hiden">
                                 <h5>Client Name</h5>
-                                <img src="/public/partner-1.png" alt="" className="w-[150px] h-[45px]"/>
+                                <img src="/partner-1.png" alt="" className="w-[150px] h-[45px]"/>
                             </div>
                         </div>
 
@@ -110,14 +110,14 @@ function Main() {
                     <SectionItem>
                         <div className="flex items-center flex-col justify-around">
                             <div className="pt-16 pb-6">
-                                <img src="/public/IBM.png" alt="" className="w-[50px] h-[25px]"/>
+                                <img src="/IBM.png" alt="" className="w-[50px] h-[25px]"/>
                             </div>
                             <p className="paragraph-black-2 py-10">Most calendars are designed for teams. 
                                 Slate is designed for freelancers who want a 
                                 simple way to plan their schedule.</p>
 
                             <div className="flex items-center gap-4">
-                                <img src="/public/avatar.png" alt="" />
+                                <img src="/avatar.png" alt="" />
                                 <div>
                                     <p className="font-bold">Organize across</p>
                                     <p className="font-bold">Ui designer</p>
