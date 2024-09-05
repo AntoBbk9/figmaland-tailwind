@@ -16,7 +16,7 @@ function Main() {
                 <div className="flex flex-col sm:flex-row gap-16 justify-center">
                     <SectionItem>
                         <div className="flex items-center flex-col">               
-                            <img src="public/vector.png" alt="" className="w-6 h-6"/>
+                            <img src="/vector.png" alt="" className="w-6 h-6"/>
                             <h3 className="font-bold text-center pt-6">OpenType features Variable fonts</h3>
                             <p className="paragraph-black">Slate helps you see how 
                                 many more days you need 
