@@ -4,7 +4,7 @@ import Navbar from "../navbar/navbar";
 function Header() {
     return (
         <>
-        <div className="bg-[url('/public/telBG.png')] sm:bg-[url('/public/Header.png')] h-[639px]">
+        <div className="bg-[url('/public/telBG.png')] bg-center sm:bg-[url('/public/Header.png')] xl:bg-center h-[639px] sm:h[70rem]">
             <Navbar />
             <div className="px-10">
                 <h1 className="title-h1">The best products start with Figma</h1>

@@ -8,7 +8,7 @@ import TwitterIcon from "./twitterIcon";
 function Footer() {
     return(
 
-        <div className="bg-blue-950 flex flex-col sm:flex-row gap-10 px-24 py-24 justify-center">
+        <div className="bg-blue-950 flex flex-col sm:flex-row gap-10 sm:gap-32 px-24 py-24 justify-center">
         <FooterItem heading="Pages">
             <p>Home</p>
             <p>Product</p>
