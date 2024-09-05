@@ -1,9 +1,9 @@
 .title-h1{
-  @apply text-white sm:font-bold text-5xl w-80 sm:w-1/2 text-center pt-28 m-auto
+  @apply text-white sm:font-bold text-5xl sm:text-6xl w-80 sm:w-1/2 text-center sm:pt-32 m-auto xl:w-1/4
 }
 
 .title-h1-black{
-  @apply text-black text-5xl text-center pt-10
+  @apply text-black text-5xl text-center pt-32 pb-2
 }
 
 .paragraph{
@@ -18,6 +18,10 @@
   @apply text-black text-center w-48 pt-4 m-auto sm:w-[33.5rem]
 }
 
+.paragraph-black-3{
+  @apply text-black text-center w-48 pt-4 m-auto sm:w-[20rem]
+}
+
 .btn-parteners{
   @apply flex flex-col items-center border-2 border-gray-200 w-48 h-24 justify-center gap-3
 }
@@ -27,5 +31,5 @@
 }
 
 .parteners{
-  @apply flex flex-col gap-6 items-center sm:flex-row justify-center flex-wrap sm:gap-0 sm:w-2/3 m-auto xl:w-[40%]
+  @apply flex flex-col gap-6 items-center sm:flex-row justify-center flex-wrap sm:gap-0 sm:w-2/3 m-auto xl:w-[40%] pt-24
 }
