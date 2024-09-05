@@ -7,8 +7,8 @@ interface Props {
 function FooterItem({ heading, children }: Props) {
   return (
     <div>
-        <h3 className="mb-3 font-bold">{heading && heading}</h3>
-        <div className="text-base">{children}</div>
+        <h3 className="mb-3 font-bold text-center text-white">{heading && heading}</h3>
+        <div className="text-base text-center text-white">{children}</div>
     </div>
   )
 }

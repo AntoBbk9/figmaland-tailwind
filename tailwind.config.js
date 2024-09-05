@@ -11,8 +11,13 @@ export default {
     },
     height: {
       '639px': '639px',
-    }
-  },
+      '600px': '600px',
+
+    },
+    width: {
+      '1000px': '1000px',
+    },
   plugins: [],
+}
 }
 }
