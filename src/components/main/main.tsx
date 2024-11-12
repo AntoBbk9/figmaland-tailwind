@@ -7,7 +7,8 @@ function Main() {
                 <SectionItem>
                     <div className="py-10 sm:py-20">
                         <h3 className="title-h1-black">Features</h3>
-                        <p className="paragraph-black">Most calendars are designed for teams.</p>
+                        <p className="block sm:hidden paragraph-black">Most calendars are designed for teams.</p>
+                        <p className="hidden sm:block paragraph-black-sm">Most calendars are designed for teams. Slate is designed for freelancers</p>
                     </div>
                 </SectionItem>
 
@@ -16,7 +17,7 @@ function Main() {
                 <div className="flex flex-col sm:flex-row gap-16 justify-center">
                     <SectionItem>
                         <div className="flex items-center flex-col">               
-                            <img src="/Vector1.png" alt="" className="w-6 h-6"/>
+                            <img src="/Vector1.png" alt="" className="w-10 h-10"/>
                             <h3 className="font-bold text-center pt-6">OpenType features Variable fonts</h3>
                             <p className="paragraph-black">Slate helps you see how 
                                 many more days you need 
@@ -29,7 +30,7 @@ function Main() {
 
                         <SectionItem>
                         <div className="flex items-center flex-col">               
-                            <img src="/mdi_draw.png" alt="" className="w-6 h-6" />
+                            <img src="/mdi_draw.png" alt="" className="w-10 h-10" />
                                 <h3 className="font-bold text-center pt-6">Design with real data</h3>
                                 <p className="paragraph-black">Slate helps you see how 
                                     many more days you need 
@@ -40,7 +41,7 @@ function Main() {
 
                     <SectionItem>
                         <div className="flex items-center flex-col">               
-                            <img src="/mdi_brush.png" alt="" className="w-6 h-6" />
+                            <img src="/mdi_brush.png" alt="" className="w-10 h-10" />
                                 <h3 className="font-bold text-center pt-6">Fastest way to take action</h3>
                                 <p className="paragraph-black">Slate helps you see how 
                                     many more days you need 
@@ -51,7 +52,7 @@ function Main() {
                 </div>
 
 
-                <img src="/video-screen.png" alt="" className= "hidden sm:block w-[900px] h-[600px] m-auto pt-20"/>
+                <img src="/video-screen.png" alt="" className= "hidden sm:block w-[74rem] h-[45rem] m-auto pt-20"/>
                 
                 <div>
                     <SectionItem>

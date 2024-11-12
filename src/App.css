@@ -13,6 +13,9 @@
 .paragraph-black{
   @apply text-black text-center w-48 pt-4 m-auto
 }
+.paragraph-black-sm{
+  @apply text-black text-center w-72 pt-4 m-auto
+}
 
 .paragraph-black-2{
   @apply text-black text-center w-48 pt-4 m-auto sm:w-[33.5rem]
